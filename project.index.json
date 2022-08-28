@@ -1,0 +1,11 @@
+{
+    "name": "CLI Task Manager",
+    "description": "CLI Based Task Management Solution",
+    "created": "21/12/2021",
+    "completed": "true",
+    "modules": [],
+    "hosting": {
+        "hosted": "false"
+    },
+    "code": "CL-21122021-223857"
+}
